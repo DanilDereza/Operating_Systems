@@ -1,0 +1,5 @@
+C:/Users/danil/Desktop/4_course/OS/Lab_2/build/CMakeFiles/process_manager.dir
+C:/Users/danil/Desktop/4_course/OS/Lab_2/build/CMakeFiles/test.dir
+C:/Users/danil/Desktop/4_course/OS/Lab_2/build/CMakeFiles/process_child.dir
+C:/Users/danil/Desktop/4_course/OS/Lab_2/build/CMakeFiles/edit_cache.dir
+C:/Users/danil/Desktop/4_course/OS/Lab_2/build/CMakeFiles/rebuild_cache.dir

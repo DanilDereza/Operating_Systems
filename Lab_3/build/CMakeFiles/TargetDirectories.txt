@@ -1,0 +1,5 @@
+C:/Users/danil/Desktop/4_course/OS/Lab_3/build/CMakeFiles/main.dir
+C:/Users/danil/Desktop/4_course/OS/Lab_3/build/CMakeFiles/child1.dir
+C:/Users/danil/Desktop/4_course/OS/Lab_3/build/CMakeFiles/child2.dir
+C:/Users/danil/Desktop/4_course/OS/Lab_3/build/CMakeFiles/edit_cache.dir
+C:/Users/danil/Desktop/4_course/OS/Lab_3/build/CMakeFiles/rebuild_cache.dir

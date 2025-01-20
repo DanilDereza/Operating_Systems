@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temperature Monitoring</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    <div class="container">
+        <h1>Temperature Monitoring</h1>
+        <div class="buttons">
+            <button id="currentButton">Current Temperature</button>
+            <button id="hourlyButton">Hourly Average</button>
+            <button id="dailyButton">Daily Average</button>
+        </div>
+
+        <div id="tableContainer">
+            <table id="dataTable">
+                <thead>
+                    <tr>
+                        <th>Timestamp</th>
+                        <th>Temperature</th>
+                    </tr>
+                </thead>
+                <tbody id="dataBody">
+                </tbody>
+            </table>
+        </div>
+        
+         <div id="chartContainer">
+          <canvas id="myChart"></canvas>
+        </div>
+    </div>
+    <script src="script.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</body>
+</html>
