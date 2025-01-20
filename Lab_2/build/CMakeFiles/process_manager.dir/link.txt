@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\process_manager.dir/objects.a
-C:\MinGW\bin\ar.exe qc CMakeFiles\process_manager.dir/objects.a @CMakeFiles\process_manager.dir\objects1.rsp
-C:\MinGW\bin\c++.exe -shared -o libprocess_manager.dll -Wl,--out-implib,libprocess_manager.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\process_manager.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\process_manager.dir\linkLibs.rsp

@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+project(my_project)
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -march=native -mtune=native -ffast-math -funroll-loops -std=c++14 -Wall -O3")
+include_directories(src)
+add_executable(main src/main.cpp)

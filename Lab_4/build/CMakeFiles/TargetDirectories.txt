@@ -1,4 +1,0 @@
-C:/Users/danil/Desktop/4_course/OS/Lab_4/build/CMakeFiles/SerialLogger.dir
-C:/Users/danil/Desktop/4_course/OS/Lab_4/build/CMakeFiles/temperature_simulator.dir
-C:/Users/danil/Desktop/4_course/OS/Lab_4/build/CMakeFiles/edit_cache.dir
-C:/Users/danil/Desktop/4_course/OS/Lab_4/build/CMakeFiles/rebuild_cache.dir
